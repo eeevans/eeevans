@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="eeevans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eeevans&show_icons=true&hide_border=true" />
+<img align="left" alt="eeevans's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eeevans&show_icons=true&hide_border=true&hide=stars&show_icons=true&theme=great-gatzby" />
 
 
 [website]: https://edwardevans.website/
