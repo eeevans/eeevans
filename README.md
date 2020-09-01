@@ -1,7 +1,7 @@
 ### hi there, I'm Ed - aka [etothe5th][website]
 
 ## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I'm currently working on creating a coding channel on Twitch [website]!
+- 🔭 I'm currently working on creating a coding channel on Twitch [twitch]!
 - 🌱 I'm also currently learning everything!
 - 🥅 2020 Goals: Find a remote position that allows me to contribute to the success of a company.
 - ⚡ Fun fact: I love to homebrew, woodwork, and hope to become a beekeeper one day.
@@ -25,7 +25,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+[<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/nextjs/nextjs.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
@@ -46,7 +46,7 @@
 
 [website]: https://edwardevans.website/
 [discord]: eeevans#2555
-[twitter]: https://twitter.com/edeevans
+[twitter]: https://twitter.com/follow/edeevans
 [youtube]: https://www.youtube.com/channel/UCVZeVOIhCEa7gky73XEtQ6w
 [instagram]: https://instagram.com/edeevans
 [linkedin]: https://linkedin.com/in/edeevans
@@ -55,3 +55,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[twitch]: https://twitch.tv/etothe5th
