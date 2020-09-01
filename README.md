@@ -1,4 +1,4 @@
-### hi there, I'm Ed - aka [etothe5th][website]
+### hi there, I'm Ed - aka [etothe5th][twitch]
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I'm currently working on creating a coding channel on Twitch [twitch]!
@@ -9,9 +9,9 @@
 ## Connect with me!
 
 [<img align="left" alt="edwardevans.website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="eeevans#2555 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="eeevans#2555 | Discord" width="auto" src="https://img.shields.io/discord/418180783900196884?color=7289DA&label=Discord&logo=discord" />][discord]
 [<img align="left" alt="eeevans | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="@edeevans | Twitter" width="auto" src="https://img.shields.io/twitter/follow/edeevans?style=social" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -25,7 +25,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/nextjs/nextjs.png" />][webdevplaylist]
+[<img align="left" alt="NextJS" width="26px" src="http://simpleicons.org/icons/next-dot-js.svg" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
@@ -45,8 +45,8 @@
 
 
 [website]: https://edwardevans.website/
-[discord]: eeevans#2555
-[twitter]: https://twitter.com/follow/edeevans
+[discord]: https://discord.com/channels/418180783900196884/418180783900196886
+[twitter]: https://twitter.com/edeevans
 [youtube]: https://www.youtube.com/channel/UCVZeVOIhCEa7gky73XEtQ6w
 [instagram]: https://instagram.com/edeevans
 [linkedin]: https://linkedin.com/in/edeevans
