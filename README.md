@@ -1,9 +1,9 @@
-### hi there, I'm Ed - aka [etothe5th][twitch]
+### Hi there, I'm Ed - aka [etothe5th][twitch]
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Husband, Father, Developer, and sometimes DevOp!
 - 🔭 I'm currently working on creating a coding channel on Twitch [twitch]!
-- 🌱 I'm also currently learning everything!
-- 🥅 2020 Goals: Find a remote position that allows me to contribute to the success of a company.
+- 🌱 I'm currently learning Blazor and Vue.js just to cover the bases!
+- 🥅 2025 Goals: Find a remote position that allows me to contribute to the success of a company.
 - ⚡ Fun fact: I love to homebrew, woodwork, and hope to become a beekeeper one day.
 
 ## Connect with me!
